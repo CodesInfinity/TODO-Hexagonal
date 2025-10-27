@@ -40,11 +40,3 @@ El objetivo del proyecto es servir como base educativa para entender la integrac
 - JDK 17 o superior
 - Maven 3.6+
 
-### Instalación y Ejecución
-
-```bash
-git clone <URL-DEL-REPOSITORIO>
-cd demo
-mvn spring-boot:run
-Accede a la aplicación en: http://localhost:8080
-```
